@@ -71,10 +71,12 @@
 
 ---
 
-#### 📈 Financial Modeling  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+#### 📈 Financial / Quant Tools  
 ![Backtrader](https://img.shields.io/badge/Backtrader-black?style=for-the-badge)
+![PyAlgoTrade](https://img.shields.io/badge/PyAlgoTrade-4B8BBE?style=for-the-badge)
+![Zipline](https://img.shields.io/badge/Zipline-000000?style=for-the-badge)
+![QuantConnect](https://img.shields.io/badge/QuantConnect-111827?style=for-the-badge)
+![FMP API](https://img.shields.io/badge/FinancialModelingPrep-00758F?style=for-the-badge)
 
 ---
 
@@ -84,6 +86,15 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+---
+
+#### 🔍 Web Scraping & Automation  
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Scrapy](https://img.shields.io/badge/Scrapy-EE6B27?style=for-the-badge&logo=python&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=microsoft&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-20232A?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
@@ -104,7 +115,6 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
 
 ---
 
