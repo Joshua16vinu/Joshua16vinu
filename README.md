@@ -29,7 +29,7 @@
 - 2nd Runner up at Hacktivate 2k24
 - Built **Backtesting Architecture** with Screener integration.
 - Researched **Nowcasting** using multi-frame satellite image prediction
-- Finalist in **multiple hackathons** across domains like climate, healthcare, and fintech.
+- Finalist in **multiple hackathons** across domains like web development, AI/ML, and fintech.
 
 
 ---
