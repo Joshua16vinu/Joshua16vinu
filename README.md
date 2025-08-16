@@ -23,17 +23,6 @@
 
 ---
 
-### 📈 Proactive Achievements
-
-- Designing a multi-step financial assistant with long-term memory
-- 2nd Runner up at Hacktivate 2k24
-- Built **Backtesting Architecture** with Screener integration.
-- Researched **Nowcasting** using multi-frame satellite image prediction
-- Finalist in **multiple hackathons** across domains like web development, AI/ML, and fintech.
-
-
----
-
 ### 🛠️ Tech Stack
 
 #### 💻 Programming Languages  
@@ -115,14 +104,6 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-### 📚 Learning Focus
-
-- Conditional Diffusion Models (DDPM, DDIM, UNets)  
-- Agentic workflows with **LangGraph**  
-- Scalable ML deployments via **Supabase** and **Streamlit**
 
 ---
 
