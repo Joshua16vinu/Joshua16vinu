@@ -113,6 +113,5 @@
 <a href="https://instagram.com/joshua.v.k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joshua.v.k" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joshua16vinu&show_icons=true&locale=en&layout=compact" alt="joshua16vinu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joshua16vinu&show_icons=true&locale=en" alt="joshua16vinu" /></p>
