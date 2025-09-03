@@ -107,11 +107,12 @@
 
 ---
 
-### 📫 Connect with Me
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/joshua-vinu-koshy-8328b7287/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/joshua-vinu-koshy-8328b7287/" height="30" width="40" /></a>
+<a href="https://instagram.com/joshua.v.k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joshua.v.k" height="30" width="40" /></a>
+</p>
 
-- 🔗 [LinkedIn- Joshua Vinu Koshy](https://www.linkedin.com/in/joshua-vinu-koshy-8328b7287/)  
-- ✉️ joshuvk16@gmail.com  
-- 🤝 Open to collaborations, research internships, and AI innovations
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joshua16vinu&show_icons=true&locale=en&layout=compact" alt="joshua16vinu" /></p>
 
----
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joshua16vinu&show_icons=true&locale=en" alt="joshua16vinu" /></p>
