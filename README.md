@@ -5,8 +5,11 @@
 
 <div align="center">
 
-<img src="assets/profile-header.svg" width="100%" alt="Joshua Vinu Koshy"/>
-
+<img
+  src="https://raw.githubusercontent.com/joshua16vinu/joshua16vinu/main/assets/profile-header.svg?v=2"
+  width="100%"
+  alt="Joshua Vinu Koshy"
+/>
 <br/>
 
 <a href="https://joshuavinukoshy.vercel.app/">portfolio ↗</a>
@@ -15,7 +18,7 @@
 &nbsp;&nbsp; / &nbsp;&nbsp;
 <a href="mailto:joshuvk16@gmail.com">email ↗</a>
 
-<br/><br/>
+<!-- <br/><br/> -->
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3500&pause=1200&color=A78BFA&center=true&vCenter=true&width=750&height=25&lines=Autonomous+Systems+%2F+Machine+Learning;Agentic+AI+%2F+Intelligent+Applications;Research+%2F+Engineering+%2F+Experimentation" />
 
