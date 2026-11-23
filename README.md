@@ -4,21 +4,24 @@
 -->
 
 <div align="center">
-  <img src="./assets/profile-header.svg" width="100%" alt="Joshua Vinu Koshy"/>
 
-  <br/>
+<img src="assets/profile-header.svg" width="100%" alt="Joshua Vinu Koshy"/>
 
-  <p>
-    <a href="https://joshuavinukoshy.vercel.app/">portfolio</a>
-    &nbsp;·&nbsp;
-    <a href="https://www.linkedin.com/in/joshua-vinu-koshy-8328b7287/">linkedin</a>
-    &nbsp;·&nbsp;
-    <a href="mailto:joshuvk16@gmail.com">email</a>
-  </p>
+<br/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=MSc+Computer+Science+%40+University+of+Stuttgart;Exploring+Autonomous+Systems;Building+AI-powered+applications;Interested+in+the+science+behind+intelligence" />
+<a href="https://joshuavinukoshy.vercel.app/">portfolio ↗</a>
+&nbsp;&nbsp; / &nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/joshua-vinu-koshy-8328b7287/">linkedin ↗</a>
+&nbsp;&nbsp; / &nbsp;&nbsp;
+<a href="mailto:joshuvk16@gmail.com">email ↗</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3500&pause=1200&color=A78BFA&center=true&vCenter=true&width=750&height=25&lines=Autonomous+Systems+%2F+Machine+Learning;Agentic+AI+%2F+Intelligent+Applications;Research+%2F+Engineering+%2F+Experimentation" />
 
 </div>
+
+---
 
 ---
 
