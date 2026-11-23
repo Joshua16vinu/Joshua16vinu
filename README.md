@@ -4,7 +4,7 @@
 -->
 
 <div align="center">
-  <img src="./assets/profile-header.svg" width="100%" alt="Joshua Vinu Koshy — Engineering Intelligent Systems"/>
+  <img src="./assets/profile-header.svg" width="100%" alt="Joshua Vinu Koshy"/>
 
   <br/>
 
