@@ -1,118 +1,254 @@
-<h1 align="center">
-  Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm <span style="color:#6C63FF">Joshua Vinu Koshy</span> 👨‍💻
-</h1>
-<h3 align="center">Student | Full Stack Developer | AI/ML Enthusiast</h3>
+<!--
+  GitHub Profile README
+  Joshua Vinu Koshy | joshua16vinu
+-->
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/joshua-vinu-koshy-8328b7287/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:joshuvk16@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+<div align="center">
+  <img src="./assets/profile-header.svg" width="100%" alt="Joshua Vinu Koshy — Engineering Intelligent Systems"/>
 
----
+  <br/>
 
+  <p>
+    <a href="https://joshuavinukoshy.vercel.app/">portfolio</a>
+    &nbsp;·&nbsp;
+    <a href="https://www.linkedin.com/in/joshua-vinu-koshy-8328b7287/">linkedin</a>
+    &nbsp;·&nbsp;
+    <a href="mailto:joshuvk16@gmail.com">email</a>
+  </p>
 
-### 👨‍💻 About Me
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=MSc+Computer+Science+%40+University+of+Stuttgart;Exploring+Autonomous+Systems;Building+AI-powered+applications;Interested+in+the+science+behind+intelligence" />
 
-- Final-year student at **FCRIT Vashi**
-- Passionate about cutting-edge **AI/ML** in **earth observation**, **finance**, and **agentic workflows**
-- Enthusiast for **space tech**, **AI for climate**, **generative modeling**, and **data storytelling**
-
----
-
-### 🛠️ Tech Stack
-
-#### 💻 Programming Languages  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+</div>
 
 ---
 
-#### 🧠 Machine Learning & AI  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black)
-![LLaMA](https://img.shields.io/badge/LLaMA-231F20?style=for-the-badge&logo=meta&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-005f73?style=for-the-badge&logo=python&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-EC6F1A?style=for-the-badge)
-![LightGBM](https://img.shields.io/badge/LightGBM-3C3C3C?style=for-the-badge)
-![Weights & Biases](https://img.shields.io/badge/W%26B-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
+## `01` / A little about me
+
+```yaml
+name: Joshua Vinu Koshy
+location: Stuttgart, Germany
+education:
+  degree: MSc Computer Science
+  university: University of Stuttgart
+  focus: Autonomous Systems
+
+interests:
+  - Machine Learning & AI
+  - Autonomous Systems
+  - Agentic AI & LLMs
+  - Distributed Systems
+  - Machine Perception
+  - Intelligent Applications
+
+currently:
+  learning: Advanced Computer Science
+  building: AI-powered systems
+  exploring: Research & engineering
+```
+
+I'm a Computer Science postgraduate student at the **University of Stuttgart**, interested in understanding and building intelligent systems.
+
+My work has involved developing AI-driven applications, multi-agent workflows, financial intelligence systems, and offline AI tools. I'm particularly interested in the engineering behind these systems — how models, data, memory, and distributed components work together.
+
+I enjoy moving between research, experimentation, and implementation.
 
 ---
 
-#### 🤖 LLMs & Agentic AI  
-![LangChain](https://img.shields.io/badge/LangChain-3C3C3C?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-3C3C3C?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-2D2D2D?style=for-the-badge)
-![ChromaDB](https://img.shields.io/badge/Chroma-361858?style=for-the-badge)
-![Haystack](https://img.shields.io/badge/Haystack-1e293b?style=for-the-badge)
-![Gradio](https://img.shields.io/badge/Gradio-FF4B4B?style=for-the-badge&logo=gradio&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+## `02` / What I'm interested in
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Machine Learning
+
+Deep learning, representation learning, model architectures, and intelligent perception.
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 Agentic Systems
+
+LLM-based agents, orchestration, MCP, memory architectures, and multi-agent collaboration.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Distributed Systems
+
+System models, communication, consistency, scalability, and fault tolerance.
+
+</td>
+<td width="50%" valign="top">
+
+### 🔬 Autonomous Systems
+
+Machine perception, decision-making, learning, and intelligent environments.
+
+</td>
+</tr>
+</table>
 
 ---
 
-#### 📈 Financial / Quant Tools  
-![Backtrader](https://img.shields.io/badge/Backtrader-black?style=for-the-badge)
-![PyAlgoTrade](https://img.shields.io/badge/PyAlgoTrade-4B8BBE?style=for-the-badge)
-![Zipline](https://img.shields.io/badge/Zipline-000000?style=for-the-badge)
-![QuantConnect](https://img.shields.io/badge/QuantConnect-111827?style=for-the-badge)
-![FMP API](https://img.shields.io/badge/FinancialModelingPrep-00758F?style=for-the-badge)
+## `03` / Selected engineering
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>01. Financial Intelligence</h3>
+
+**Financial Assistant using Agentic Workflows and Long-Term Memory (MCP)**
+
+An agent-based financial assistance system developed during my internship at InfinityPool Finnotech.
+
+- Fundamental, technical and sentiment agents
+- Stock screening and portfolio analysis
+- Long-term context and memory
+- Financial decision-support workflows
+
+<sub>Python · n8n · MCP · PostgreSQL · Supabase · Streamlit</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>02. PolicyGuard AI</h3>
+
+**Offline AI for Cybersecurity Policy Analysis**
+
+An offline policy gap-analysis and revision system built around NIST CSF 2.0.
+
+- Local LLM inference with Ollama
+- Semantic retrieval and persistent ChromaDB
+- Policy-to-framework mapping
+- Automated policy revision
+
+<sub>Python · FastAPI · React · Ollama · ChromaDB</sub>
+
+<br/>
+
+🏆 **3rd Place — Hack IITK 2026, C3iHub**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>03. Precision Healthcare</h3>
+
+**Towards Autonomous Precision Healthcare**
+
+Research exploring the intersection of AI and precision healthcare.
+
+- Representation
+- Reasoning
+- Action
+- Simulation
+
+<sub>AI · Machine Learning · Healthcare Research</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>04. Quantitative Systems</h3>
+
+**Financial Backtesting & Market Intelligence**
+
+Engineering data-driven workflows for financial analysis and strategy evaluation.
+
+- Historical market data pipelines
+- Technical indicators and pattern analysis
+- Strategy backtesting
+- Risk and performance metrics
+
+<sub>Python · Backtrader · PostgreSQL · Financial APIs</sub>
+
+</td>
+</tr>
+</table>
 
 ---
 
-#### 🌐 Web Development  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+## `04` / Technology landscape
+
+<div align="center">
+
+**LANGUAGES**
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts&theme=dark" />
+
+**AI / MACHINE LEARNING**
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=dark" />
+
+**WEB & BACKEND**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,tailwind&theme=dark" />
+
+**DATABASES, CLOUD & INFRASTRUCTURE**
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,firebase,gcp,docker,git,github,vercel&theme=dark" />
+
+</div>
+
+<details>
+<summary><b>More tools and technologies</b></summary>
+
+- **LLMs & orchestration:** LangChain, LangGraph, n8n, MCP
+- **Vector databases:** FAISS, ChromaDB
+- **Data science:** NumPy, Pandas, Matplotlib, Seaborn
+- **Financial tools:** Backtrader, FMP API
+- **Automation:** Selenium, BeautifulSoup, Scrapy, Playwright
+- **Developer tools:** VS Code, Jupyter, GitHub Actions
+
+</details>
 
 ---
 
-#### 🔍 Web Scraping & Automation  
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Scrapy](https://img.shields.io/badge/Scrapy-EE6B27?style=for-the-badge&logo=python&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=microsoft&logoColor=white)
-![Requests](https://img.shields.io/badge/Requests-20232A?style=for-the-badge&logo=python&logoColor=white)
+## `05` / Beyond the code
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=joshua16vinu&theme=discord&no-frame=true&no-bg=true&column=6&margin-w=10" width="100%" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=joshua16vinu&show_icons=true&hide_border=true&bg_color=00000000&title_color=9B8CFF&icon_color=9B8CFF&text_color=AAAAAA&rank_icon=github" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshua16vinu&layout=compact&hide_border=true&bg_color=00000000&title_color=9B8CFF&text_color=AAAAAA" height="165" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=joshua16vinu&hide_border=true&background=00000000&ring=9B8CFF&fire=9B8CFF&currStreakLabel=9B8CFF&sideLabels=AAAAAA&dates=888888" width="70%" />
+
+</div>
 
 ---
 
-#### ☁️ Cloud, Hosting & Databases  
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-3B3B98?style=for-the-badge&logo=render&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+## `06` / Find me elsewhere
 
----
+<div align="center">
 
-#### 🧰 Developer Tools  
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<a href="https://joshuavinukoshy.vercel.app/">
+<img src="https://img.shields.io/badge/Website-Visit%20Portfolio-6C63FF?style=flat-square&logo=vercel&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/joshua-vinu-koshy-8328b7287/">
+<img src="https://img.shields.io/badge/LinkedIn-Joshua%20Vinu%20Koshy-0A66C2?style=flat-square&logo=linkedin" />
+</a>
+<a href="https://github.com/joshua16vinu">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github" />
+</a>
+<a href="mailto:joshuvk16@gmail.com">
+<img src="https://img.shields.io/badge/Email-Get%20in%20touch-D14836?style=flat-square&logo=gmail&logoColor=white" />
+</a>
 
----
+<br/><br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/joshua-vinu-koshy-8328b7287/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/joshua-vinu-koshy-8328b7287/" height="30" width="40" /></a>
-  <a href="https://joshuavinukoshy.vercel.app/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/briefcase-business.svg" alt="https://www.linkedin.com/in/joshua-vinu-koshy-8328b7287/" height="30" width="40" /></a>
-<!-- <a href="https://instagram.com/joshua.v.k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joshua.v.k" height="30" width="40" /></a> -->
-</p>
+<i>Curiosity drives the questions. Engineering turns them into systems.</i>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4338CA,50:17172D,100:09090F&height=110&section=footer" />
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joshua16vinu&show_icons=true&locale=en" alt="joshua16vinu" /></p> -->
+</div>
